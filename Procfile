@@ -1,1 +1,1 @@
-:  pro.js
+web: node server.js
